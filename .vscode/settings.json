@@ -99,5 +99,6 @@
     "variant": "cpp",
     "unordered_set": "cpp",
     "utility": "cpp",
-  }
+  },
+  "cmake.generator": "Unix Makefiles"
 }
